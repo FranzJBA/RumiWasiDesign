@@ -7,6 +7,8 @@
     tools:context=".StartActivity"
     android:background="@drawable/bgstart">
 
+    <!-- FRANZ´S CHANGES -->
+
     <LinearLayout
         android:gravity="center"
         android:layout_width="match_parent"
