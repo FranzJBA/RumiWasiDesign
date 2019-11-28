@@ -13,4 +13,12 @@
         android:text="IS MI LIFE SOFIA"
         tools:layout_editor_absoluteX="156dp"
         tools:layout_editor_absoluteY="329dp" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="NOC, WNO SI Z PERO NO TE DIRE :V"
+        tools:layout_editor_absoluteX="139dp"
+        tools:layout_editor_absoluteY="57dp" />
 </androidx.constraintlayout.widget.ConstraintLayout>
